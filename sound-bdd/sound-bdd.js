@@ -8,6 +8,14 @@ const objects = [
         "path":"oss-117-rire-1.mp3"
     },
     {
+        "label":"Sacré Hubert",
+        "path":"sacre-hubert.mp3"
+    },
+    {
+        "label":"You're so french",
+        "path":"youre-so-french.mp3"
+    },
+    {
         "label":"Merci la gueuse",
         "path":"les-visiteurs-merci.mp3"
     }, 
