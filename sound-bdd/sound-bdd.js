@@ -94,6 +94,10 @@ const objects = [
     {
         "label":"Tu es grosse Melissandre",
         "path":"tu-es-grosse-melissandre.mp3"
+    },
+    {
+        "label":"Quelle indignité !",
+        "path":"quelle-indignite.mp3"
     } 
     
 ]
