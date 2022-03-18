@@ -98,6 +98,10 @@ const objects = [
     {
         "label":"Quelle indignité !",
         "path":"quelle-indignite.mp3"
+    },
+    {
+        "label":"Olivier !",
+        "path":"olivier.mp3"
     } 
     
 ]
