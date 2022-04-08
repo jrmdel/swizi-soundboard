@@ -84,6 +84,10 @@ const objects = [
         "path":"tes-pas-net.mp3"
     },
     {
+        "label":"Ça va pas Baptiste",
+        "path":"ca-va-pas-baptiste.mp3"
+    },
+    {
         "label":"New York Unité Spéciale",
         "path":"law-order.mp3"
     },
@@ -102,6 +106,10 @@ const objects = [
     {
         "label":"Olivier !",
         "path":"olivier.mp3"
-    } 
+    },
+    {
+        "label":"Ils sont là",
+        "path":"ils-sont-la.mp3"
+    }
     
 ]
