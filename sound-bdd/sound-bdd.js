@@ -110,6 +110,14 @@ const objects = [
     {
         "label":"Ils sont là",
         "path":"ils-sont-la.mp3"
+    },
+    {
+        "label":"J'ai faim",
+        "path":"jai-faim.mp3"
+    },
+    {
+        "label":"Croque des concombres",
+        "path":"croque-concombre.mp3"
     }
     
 ]
