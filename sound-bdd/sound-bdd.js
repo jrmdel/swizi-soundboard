@@ -68,10 +68,6 @@ const objects = [
         "path":"ouille-ouille.mp3"
     },
     {
-        "label":"La chatte de Marine",
-        "path":"marine.mp3"
-    },
-    {
         "label":"Au revoir",
         "path":"au-revoir.mp3"
     },
@@ -94,10 +90,6 @@ const objects = [
     {
         "label":"Ah bah bravo Nils !",
         "path":"ah-bah-bravo-nils.mp3"
-    },
-    {
-        "label":"Tu es grosse Melissandre",
-        "path":"tu-es-grosse-melissandre.mp3"
     },
     {
         "label":"Quelle indignité !",
