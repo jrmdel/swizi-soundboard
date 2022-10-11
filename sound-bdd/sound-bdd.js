@@ -120,7 +120,7 @@ const objects = [
         "path":"croque-concombre.mp3"
     },
     {
-        "label":"Je vais faire caca chez Paul",
+        "label":"Caca chez Paul",
         "path":"je-vais-faire-caca.mp3"
     }
     
