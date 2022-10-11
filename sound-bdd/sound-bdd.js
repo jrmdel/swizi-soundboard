@@ -32,20 +32,32 @@ const objects = [
         "path":"juste.mp3"
     },
     {
-        "label":"Une ouiche lorraine",
+        "label":"Tu veux manger quoi ?",
         "path":"ouiche-lorraine.mp3"
+    },
+    {
+        "label":"Des chips",
+        "path":"chips.mp3"
+    },
+    {
+        "label":"J'ai faim",
+        "path":"jai-faim.mp3"
+    },
+    {
+        "label":"Croque des concombres",
+        "path":"croque-concombre.mp3"
     },
     {
         "label":"Bon maintenant t'arrêtes !",
         "path":"la-megachiasse.mp3"
     },
     {
-        "label":"Un fasciste de merde",
-        "path":"fasciste-de-merde.mp3"
+        "label":"Bien manger c'est important",
+        "path":"manger-important.mp3"
     },
     {
-        "label":"Des chips",
-        "path":"chips.mp3"
+        "label":"Un fasciste de merde",
+        "path":"fasciste-de-merde.mp3"
     },
     {
         "label":"Terrorisme, grand banditisme",
@@ -102,14 +114,6 @@ const objects = [
     {
         "label":"Ils sont là",
         "path":"ils-sont-la.mp3"
-    },
-    {
-        "label":"J'ai faim",
-        "path":"jai-faim.mp3"
-    },
-    {
-        "label":"Croque des concombres",
-        "path":"croque-concombre.mp3"
     },
     {
         "label":"Caca chez Paul",
