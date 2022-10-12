@@ -33,6 +33,10 @@ const objects = [
     },
     {
         "label":"Tu veux manger quoi ?",
+        "path":"manger-quoi.mp3"
+    },
+    {
+        "label":"Une ouiche lorraine",
         "path":"ouiche-lorraine.mp3"
     },
     {
