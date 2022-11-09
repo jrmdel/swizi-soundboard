@@ -122,6 +122,14 @@ const objects = [
     {
         "label":"Caca chez Paul",
         "path":"je-vais-faire-caca.mp3"
+    },
+    {
+        "label":"Pas le choix",
+        "path":"pas-le-choix.mp3"
+    },
+    {
+        "label":"J'ai pas le temps",
+        "path":"pas-le-temps.mp3"
     }
     
 ]
