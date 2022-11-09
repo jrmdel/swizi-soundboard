@@ -130,6 +130,10 @@ const objects = [
     {
         "label":"J'ai pas le temps",
         "path":"pas-le-temps.mp3"
+    },
+    {
+        "label":"Calme-toi Jérémie",
+        "path":"calme_toi_jeremie.mp3"
     }
     
 ]
