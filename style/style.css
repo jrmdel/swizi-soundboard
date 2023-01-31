@@ -4,7 +4,7 @@ html {
     min-height: 100%; }
   
   .body {
-    background-color: #0B292F;
+    background-color: #0F2D3E;
     margin-bottom: 60px;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; }
 
@@ -14,17 +14,17 @@ html {
     bottom: 0;
     height: 60px;
     width: 100%;
-    background-color: #02181d;
+    background-color: #031520;
     border-top: 0px solid; }
   
   h1 {
-    color: #ff8636;
-    border-color: #d35400;
+    color: #FF4D00;
+    border-color: #FF4D00;
     font-size: 4em;
     margin-bottom: 1em; }
 
     .title {
-        color: #88989C;
+        color: #FFFFFF;
         margin-bottom: 2em;
         font-size: 1.5em;  }
         
@@ -32,7 +32,7 @@ html {
         margin-top: 0.5em;  }
   
   .btn {
-    background-color: #4A7F89;
+    background-color: #1A5274;
     color: #ffffff; 
     border-radius: 100px;}
     .btn:hover {
@@ -43,9 +43,9 @@ html {
     margin-bottom: 1em; }
   
   .text {
-    color: #ff8636; }
+    color: #FF4D00; }
     .text a {
-      color: #ff8636;
+      color: #FF4D006;
       text-decoration: underline; }
 
 .js-button{
