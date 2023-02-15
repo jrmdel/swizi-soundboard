@@ -142,6 +142,14 @@ const objects = [
     {
         "label":"Je m'appelle Brice",
         "path":"jemappellebrice.mp3"
+    },
+    {
+        "label":"C'est pas cool",
+        "path":"cest_pas_cool.mp3"
+    },
+    {
+        "label":"L'alcool c'est pas cool",
+        "path":"lalcool_cest_pas_cool.mp3"
     }
     
 ]
