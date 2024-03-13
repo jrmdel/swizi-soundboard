@@ -150,6 +150,14 @@ const objects = [
     {
         "label":"L'alcool c'est pas cool",
         "path":"lalcool_cest_pas_cool.mp3"
+    },
+    {
+        "label":"T'as regardé (mère)",
+        "path":"tas-regarde-cul-mere.mp3"
+    },
+    {
+        "label":"T'as regardé (père)",
+        "path":"tas-regarde-cul-pere.mp3"
     }
     
 ]
